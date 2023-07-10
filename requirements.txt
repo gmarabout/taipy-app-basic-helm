@@ -1,0 +1,3 @@
+gevent==22.10.2
+gunicorn==20.1.0
+taipy==2.1.0
